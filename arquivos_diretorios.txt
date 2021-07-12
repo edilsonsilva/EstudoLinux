@@ -1,0 +1,4 @@
+Comando para a navegação entre diretórios:
+    cd
+    para abrir um diretório usamos o comando: cd e o nome do diretório
+    Ex.:cd home -> abrindo a pasta home
