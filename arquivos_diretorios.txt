@@ -12,3 +12,7 @@ Comando para a navegação entre diretórios:
     diretório. Ele possui algumas flags(opções de comandos).
     Ex.: exibir os arquivos e pastar, inclusive os ocultos
         ls -la
+
+    mkdir
+    o comando cria diretorios. Por isso o seu nome é mkdir(make directory)
+    Ex.: mkdir dados
